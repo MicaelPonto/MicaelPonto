@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Micael
-- 👀 I’m interested in Front-End
+- 👀 I’m interested(now) in Front-End
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript
 - 💞️ I’m looking to collaborate on idk, something cool
 - 📫 How to reach me: my email -> Micaelfreire2003@gmail.com
